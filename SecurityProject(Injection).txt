@@ -1,0 +1,8 @@
+
+
+Gruppe 3 : Jonas Andersen , Anders Christiansen
+
+Fortælle om de forskellige svagheder i applikationers kode der kan udnyttes via injection.
+Vi går ligeledes dybere end blot injection via input, og vil 
+forsøge at redegøre for de mere komplicerede former for injections og sammenligne disse.
+Til sidst vil vi forsøge at sikre en applikation mod injektions fuldkomment, kan dette lade sig gøre?
